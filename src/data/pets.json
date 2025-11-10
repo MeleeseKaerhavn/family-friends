@@ -1,0 +1,74 @@
+[
+  {
+    "id": "harry",
+    "name": "Harry",
+    "species": "Dog",
+    "breed": "Yorkshire Terrier",
+    "ageCategory": "Young",
+    "gender": "Male",
+    "photo": {
+      "url": "/harry.jpg"
+    },
+    "description": "En livlig og nysgerrig lille fyr, der elsker at løbe rundt og finde på narrestreger. Han kommer hurtigt i kontakt med mennesker og nyder at være centrum for opmærksomheden."
+  },
+  {
+    "id": "pjercik",
+    "name": "Pjercik",
+    "species": "Cat",
+    "breed": "Blandingsrace",
+    "ageCategory": "2,5 år",
+    "gender": "Male",
+    "photo": {
+      "url": "/pjercik.jpg"
+    },
+    "description": "En charmerende og legesyg kat med et stort hjerte. Pjercik elsker at ligge i vindueskarmen og følge med i alt, hvad der sker udenfor."
+  },
+  {
+    "id": "whitney",
+    "name": "Whitney",
+    "species": "Cat",
+    "breed": "Britisk langhåret kat",
+    "ageCategory": "2 mdr.",
+    "gender": "Female",
+    "photo": {
+      "url": "/whitney.jpg"
+    },
+    "description": "En blød, lille pelsbold med et mildt temperament. Whitney er stadig killing og elsker at udforske, klatre og sove i sollys."
+  },
+  {
+    "id": "baggi",
+    "name": "Baggi",
+    "species": "Dog",
+    "breed": "Jack Russell Terrier",
+    "ageCategory": "4 mdr.",
+    "gender": "Male",
+    "photo": {
+      "url": "/baggi.jpg"
+    },
+    "description": "En energisk og modig hvalp, der altid er klar på eventyr. Baggi lærer hurtigt og vil være perfekt til en aktiv familie."
+  },
+  {
+    "id": "samojed-willie",
+    "name": "Samojed Willie",
+    "species": "Dog",
+    "breed": "Great Dane",
+    "ageCategory": "Young",
+    "gender": "Male",
+    "photo": {
+      "url": "/willie.jpg"
+    },
+    "description": "Den venligste Samojed, vi nogensinde har mødt. Elsker at lege med bolde og er venlig over for andre dyr. På trods af sin hvide pels elsker den regn og vandpytter."
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "species": "Dog",
+    "breed": "Bichon Frisé",
+    "ageCategory": "1 år",
+    "gender": "Female",
+    "photo": {
+      "url": "/kiwi.jpg"
+    },
+    "description": "En kærlig og tillidsfuld lille hund, der trives med mennesker omkring sig. Kiwi elsker at blive nusset og går glad med på ture i parken."
+  }
+]

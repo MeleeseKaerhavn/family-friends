@@ -4,33 +4,20 @@ import Header from "@/components/Header";
 import Card from "@/components/Card";
 import ScrollNav from "@/components/ScrollNav";
 import Footer from "@/components/Footer";
+import pets from "@/data/pets.json";
 
 export default function Home() {
   return (
     <div>
       <Header />
       <ScrollNav />
+
       <section className="grid grid-cols-2 gap-4 p-4">
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+        {pets.map((pet) => (
+          <Card key={pet.id} pet={pet} />
+        ))}
       </section>
       <Footer />
-
-
-      <Link href="/singleview">
-      <h1>Home Page</h1>
-      <Image
-        src="https://placecats.com/neo/300/200"
-        alt="placeholdercat"
-        width={300}
-        height={200}
-        priority
-      />
-    </Link>
 
     </div>
     
