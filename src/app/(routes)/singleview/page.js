@@ -6,6 +6,7 @@ import { SlStar } from "react-icons/sl";
 import Favorite from "@/components/Favorite";
 import Tag from "@/components/Tag";
 import AdoptButton from "@/components/AdoptButton";
+import pets from "@/data/pets.json";
 
 
 const detalje = () => {
@@ -39,6 +40,7 @@ const detalje = () => {
       </div>
       </div>
       <h1 className="font-semibold text-3xl m-4">Samojed Willie</h1>
+
       <div className="flex justify-evenly gap-3 overflow-x-auto py-1 ml-4">
         <Tag />
         <Tag />

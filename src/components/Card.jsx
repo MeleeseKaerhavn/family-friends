@@ -5,7 +5,7 @@ import Favorite from "./Favorite";
 const Card = ({ pet }) => {
   return (
     <div className="card_wrapper bg-white rounded-lg shadow-card w-full">
-      <Link href={`/singleview/${pet.id}`}>
+      <Link href={`/singleview`}>
         <div
           className={`grid grid-cols-1 grid-rows-1 overflow-hidden rounded-lg`}
           style={{ backgroundColor: pet.photo.backgroundColor }}

@@ -101,7 +101,8 @@
       "url": "/kiwi.jpg"
     },
     "description": "En kærlig og tillidsfuld lille hund, der trives med mennesker omkring sig. Kiwi elsker at blive nusset og går glad med på ture i parken."
-    , "tags": [
+    , 
+    "tags": [
       { "label": "Dog", "color": "#B3E5FC" },
       { "label": "Female", "color": "#F8BBD0" },
       { "label": "Adult", "color": "#C8E6C9" },
