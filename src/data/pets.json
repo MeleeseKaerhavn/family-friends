@@ -9,8 +9,15 @@
     "photo": {
       "url": "/harry.jpg"
     },
-    "description": "En livlig og nysgerrig lille fyr, der elsker at løbe rundt og finde på narrestreger. Han kommer hurtigt i kontakt med mennesker og nyder at være centrum for opmærksomheden."
-  },
+    "description": "En livlig og nysgerrig lille fyr, der elsker at løbe rundt og finde på narrestreger. Han kommer hurtigt i kontakt med mennesker og nyder at være centrum for opmærksomheden.",
+    "tags": [
+      { "label": "Dog", "color": "#B3E5FC" },
+      { "label": "Male", "color": "#F8BBD0" },
+      { "label": "Young", "color": "#C8E6C9" },
+      { "label": "Yorkshire Terrier", "color": "#FFF59D" }
+    ]
+}
+  ,
   {
     "id": "pjercik",
     "name": "Pjercik",
@@ -22,7 +29,13 @@
       "url": "/pjercik.jpg"
     },
     "description": "En charmerende og legesyg kat med et stort hjerte. Pjercik elsker at ligge i vindueskarmen og følge med i alt, hvad der sker udenfor."
-  },
+    , "tags": [
+      { "label": "Cat", "color": "#B3E5FC" },
+      { "label": "Male", "color": "#F8BBD0" },
+      { "label": "Adult", "color": "#C8E6C9" },
+      { "label": "Blandingsrace", "color": "#FFF59D" }
+    ]
+},
   {
     "id": "whitney",
     "name": "Whitney",
@@ -34,7 +47,13 @@
       "url": "/whitney.jpg"
     },
     "description": "En blød, lille pelsbold med et mildt temperament. Whitney er stadig killing og elsker at udforske, klatre og sove i sollys."
-  },
+    , "tags": [
+      { "label": "Cat", "color": "#B3E5FC" },
+      { "label": "Female", "color": "#F8BBD0" },
+      { "label": "Kitten", "color": "#C8E6C9" },
+      { "label": "Britisk langhåret", "color": "#FFF59D" }
+    ]
+},
   {
     "id": "baggi",
     "name": "Baggi",
@@ -46,10 +65,16 @@
       "url": "/baggi.jpg"
     },
     "description": "En energisk og modig hvalp, der altid er klar på eventyr. Baggi lærer hurtigt og vil være perfekt til en aktiv familie."
-  },
+    , "tags": [
+      { "label": "Dog", "color": "#B3E5FC" },
+      { "label": "Male", "color": "#F8BBD0" },
+      { "label": "Puppy", "color": "#C8E6C9" },
+      { "label": "Jack Russell Terrier", "color": "#FFF59D" }
+    ]
+},
   {
     "id": "samojed-willie",
-    "name": "Samojed Willie",
+    "name": "Willie",
     "species": "Dog",
     "breed": "Great Dane",
     "ageCategory": "Young",
@@ -58,7 +83,13 @@
       "url": "/willie.jpg"
     },
     "description": "Den venligste Samojed, vi nogensinde har mødt. Elsker at lege med bolde og er venlig over for andre dyr. På trods af sin hvide pels elsker den regn og vandpytter."
-  },
+    ,   "tags": [
+      { "label": "Dog", "color": "#B3E5FC" },
+      { "label": "Male", "color": "#F8BBD0" },
+      { "label": "Young", "color": "#C8E6C9" },
+      { "label": "Great Dane", "color": "#FFF59D" }
+    ]
+},
   {
     "id": "kiwi",
     "name": "Kiwi",
@@ -70,5 +101,12 @@
       "url": "/kiwi.jpg"
     },
     "description": "En kærlig og tillidsfuld lille hund, der trives med mennesker omkring sig. Kiwi elsker at blive nusset og går glad med på ture i parken."
-  }
+    , 
+    "tags": [
+      { "label": "Dog", "color": "#B3E5FC" },
+      { "label": "Female", "color": "#F8BBD0" },
+      { "label": "Adult", "color": "#C8E6C9" },
+      { "label": "Bichon Frisé", "color": "#FFF59D" }
+    ]
+}
 ]
